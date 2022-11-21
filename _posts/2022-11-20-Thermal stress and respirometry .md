@@ -19,6 +19,8 @@ These instructions allow to quantitatively assess stress in corals by measuring 
 
 - Water cooler and a heater that can be set and monitored
 
+- Water pump
+
 - Lighting panel with variable intensities
 
 - 8 magnetic stir bars (35-40mm)
