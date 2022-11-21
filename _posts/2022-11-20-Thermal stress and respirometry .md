@@ -72,7 +72,7 @@ These instructions allow to quantitatively assess stress in corals by measuring 
 ## Pyroscience software: 
 
 Download the pyroscience  workbench and data-inspector from here: [Pyroscience](https://www.pyroscience.com/en/downloads/laboratory-devices). 
-Be aware that there are several products, choose the “downloads” that are relevant for the FSO2-C4 : Optical Oxygen & Temp Meter FireSting®-O2 (4 Channels).  There are also PDF manuals and a software installer. 
+Be aware that there are several products, choose the “downloads” that are relevant for the FSO2-C4 : Optical Oxygen & Temp Meter FireSting®-O2 (4 Channels).  In addition to the software installer, download the relevant PDF manuals. 
 
 ![FSO2-C4]({{site.baseurl}}/images/FSO2-C4.tif "FSO2-C4")
 
