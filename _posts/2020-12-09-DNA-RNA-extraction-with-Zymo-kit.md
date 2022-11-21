@@ -9,7 +9,6 @@ Using the [Zymo Quick-DNA/RNA Miniprep Plus Kit](https://www.zymoresearch.com/co
 
 For this extraction I used the [protocol](https://emmastrand.github.io/EmmaStrand_Notebook/Zymo-Duet-RNA-DNA-Extraction-Protocol/) of emmastrand with some adjustments.
 
-<span style="color:red">some **This is Red Bold.** text</span>
 
 ### Reagents preparation
 
